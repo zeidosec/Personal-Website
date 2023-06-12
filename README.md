@@ -1,2 +1,2 @@
 # Personal Website
-link: https://zeidosec.github.io/me/
+link: https://zeidosec.github.io/Personal-Website
